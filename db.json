@@ -41,6 +41,72 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 8
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 9
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 10
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 11
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 12
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 13
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 14
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 15
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 16
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 17
+    },
+    {
+      "name": "Star Gazers",
+      "image": "https://www.thespruce.com/thmb/TlRZEo8_EOoaiSCXhGuZOkDkkAE=/3000x2000/filters:fill(auto,1)/Stargazer-lily-bloom-big-5a9f60fd43a1030037869efe.jpg",
+      "price": "39.99",
+      "id": 18
     }
   ]
 }
